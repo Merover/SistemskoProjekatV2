@@ -65,3 +65,4 @@ C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV2\SistemskoP
 C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV2\SistemskoProjekatV2\obj\Debug\net8.0\SistemskoProjekatV2.pdb
 C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV2\SistemskoProjekatV2\obj\Debug\net8.0\SistemskoProjekatV2.genruntimeconfig.cache
 C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV2\SistemskoProjekatV2\obj\Debug\net8.0\ref\SistemskoProjekatV2.dll
+C:\Users\Ivan\Desktop\Uni\Sistemsko Programiranje\SistemskoProjekatV2\SistemskoProjekatV2\obj\Debug\net8.0\SistemskoProjekatV2.sourcelink.json

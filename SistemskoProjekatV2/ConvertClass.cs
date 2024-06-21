@@ -12,7 +12,7 @@
             public static async Task<string> ConvertToGifAsync(string imagePath, int index)
             {
                 using var image = Image.Load<Rgba32>(imagePath);
-
+                
                 int width = image.Width;
                 int height = image.Height;
 
@@ -34,7 +34,8 @@
                 await Task.WhenAll(tasks);
 
                 string gifpath = $"../../../GifFile{index}.gif";
-
+                gif.Save(gifpath);
+            
                 return gifpath;
             }
             public static void EditImage(Image<Rgba32> image, int index, ImageFrameCollection<Rgba32> gifFrames, object lockObject)
